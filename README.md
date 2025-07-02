@@ -1,5 +1,5 @@
 
-# Introduction to News Sentiment Analysis with Eikon Data APIs - a Python example
+# Introduction to News Sentiment Analysis with Data Library - a Python example
 
 ## Overview
 
