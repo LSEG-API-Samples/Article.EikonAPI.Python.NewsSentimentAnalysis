@@ -1,0 +1,22 @@
+{
+    "logs": {
+        "level": "debug",
+        "transports": {
+            "console": {
+                "enabled": false
+            },
+            "file": {
+                "enabled": false,
+                "name": "lseg-data-lib.log"
+            }
+        }
+    },
+    "sessions": {
+        "default": "desktop.workspace",
+        "desktop": {
+            "workspace": {
+                "app-key": "YOUR APP-KEY"
+            }
+        }
+    }
+}
